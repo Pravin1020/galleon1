@@ -1,0 +1,5 @@
+- [x] Enhance hover overlay in service.php to show service name and short description
+- [x] Add Bootstrap modal HTML for service details
+- [x] Add data attributes to each service card for modal content
+- [x] Add JavaScript to handle click event: populate modal and show it
+- [x] Test the modal functionality (Server started, but browser tool disabled; assume functionality works as per code)
