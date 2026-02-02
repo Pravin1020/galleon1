@@ -59,7 +59,7 @@
 					<h5><?php echo $product->ptitle??''; ?></h5>
 
 					<!-- Product Description -->
-					<p class="text" style="background-color: #f9f9f9; padding: 15px; border-radius: 5px;">
+					<p class="text" >
 						<?php echo $product->pdec??''; ?></p>
 				</div>
 			</div>

@@ -127,7 +127,7 @@
 								</div>
 
 								<div class="col-12">
-									<button type="submit" class="button-one w-100">
+									<button type="submit" class="button-one">
 										Submit <i class="fas fa-arrow-right"></i>
 									</button>
 								</div>

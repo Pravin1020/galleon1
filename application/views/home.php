@@ -224,7 +224,7 @@ technology for smarter analysis and better outcomes.
 						</div>
 
 						<div class="about-btn">
-							<a href="https://wa.me/+919004900505" class="button-one">
+							<a href="https://wa.me/+9186910 42525" class="button-one">
 								Sent Message <i class="fas fa-arrow-right"></i>
 							</a>
 						</div>

@@ -214,7 +214,7 @@ CREATE TABLE `profile` (
 --
 
 INSERT INTO `profile` (`id`, `name`, `email`, `number`, `number2`, `address`, `logo`, `darklogo`, `favicon`, `facebook`, `instagram`, `linkedin`, `twitter`) VALUES
-(1, 'Galleon', 'Galleon@gmail.com', '9004900505', '7666666666', 'B-2,4th Floor .Office no: 93, Gami Industrial Park, Pawne MIDC, Turbhe Navi Mumbai', 'logo.png', 'logo2.png', 'favicon.png', 'https://www.facebook.com/', 'https://www.instagram.com/', 'https://www.linkedin.com/', 'https://www.twitter.com/');
+(1, 'Galleon', 'info@galleon.co.in', '9004900505', '7666666666', 'B-2,4th Floor .Office no: 93, Gami Industrial Park, Pawne MIDC, Turbhe Navi Mumbai', 'logo.png', 'logo2.png', 'favicon.png', 'https://www.facebook.com/', 'https://www.instagram.com/', 'https://www.linkedin.com/', 'https://www.twitter.com/');
 
 -- --------------------------------------------------------
 

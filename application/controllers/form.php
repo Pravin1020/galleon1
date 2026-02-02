@@ -60,7 +60,7 @@ public function contact()
 
     /* Email */
     $this->email->from('email@nexmoves.in', 'Galleon');
-    $this->email->to('pravin@nexmoves.in');
+    $this->email->to('info@galleon.co.in');
     $this->email->subject('New Contact Form Submission');
     $this->email->set_mailtype('html');
 

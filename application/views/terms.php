@@ -5,6 +5,11 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Galleon — Terms & Conditions</title>
+
+	<!-- Place favicon.ico in the root directory -->
+	<link rel="shortcut icon" type="image/x-icon"
+		href="<?php echo base_url()?>uploads/logo/<?php echo $profile->favicon?>">
+
   <style>
     body { font-family: Arial, sans-serif; background:#f5f5f5; margin:0; padding:0; }
     .container { max-width:900px; margin:30px auto; background:#fff; padding:20px; border:1px solid #ddd; }
@@ -13,6 +18,7 @@
     ul{ margin-left:20px; }
     .box{ padding:15px; background:#fafafa; border:1px solid:#ddd; margin-top:20px; }
   </style>
+
 </head>
 <body>
   <div class="container">
@@ -42,8 +48,8 @@
 
       <h2>8. Contact</h2>
       <ul>
-        <li>Email: Galleon@gmail.com</li>
-        <li>Phone: +91 9004900505
+        <li>Email: info@galleon.co.in</li>
+        <li>Phone: +91 86910 42525
 </li>
       </ul>
     </div>

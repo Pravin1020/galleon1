@@ -1,4 +1,4 @@
-<a href="https://wa.me/+919004900505" class="whatsapp-float" target="_blank">
+<a href="https://wa.me/+9186910 42525" class="whatsapp-float" target="_blank">
 	💬 Chat on WhatsApp
 </a>
 
@@ -130,10 +130,10 @@
 							&copy; 2026 All rights reserved. Designed by
 							<a href="https://nexmoves.in/" style="color:#007bff; text-decoration:none;">Nexmove</a>
 							&nbsp;|&nbsp;
-							<a href="privacyp" target="_blank" style="color:#007bff; text-decoration:none;">Privacy
+							<a href="<?php echo base_url()?>privacyp" target="_blank" style="color:#007bff; text-decoration:none;">Privacy
 								Policy</a>
 							&nbsp;|&nbsp;
-							<a href="terms" target="_blank" style="color:#007bff; text-decoration:none;">Terms &
+							<a href="<?php echo base_url()?>terms" target="_blank" style="color:#007bff; text-decoration:none;">Terms &
 								Conditions</a>
 						</p>
 					</div>
